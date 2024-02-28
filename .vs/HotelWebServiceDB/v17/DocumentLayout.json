@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\hotelwebservicedb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|solutionrelative:hotelwebservicedb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|c:\\users\\migue\\onedrive - universidad privada domingo savio\\universidad\\programacion web 1\\hotelwebservicedb\\hotelwebservicedb\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|solutionrelative:hotelwebservicedb\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|c:\\users\\migue\\onedrive - universidad privada domingo savio\\universidad\\programacion web 1\\hotelwebservicedb\\hotelwebservicedb\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|solutionrelative:hotelwebservicedb\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|c:\\users\\migue\\onedrive - universidad privada domingo savio\\universidad\\programacion web 1\\hotelwebservicedb\\hotelwebservicedb\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA5CD96-7084-4121-95CE-271F829399F7}|HotelWebServiceDB\\HotelWebServiceDB.csproj|solutionrelative:hotelwebservicedb\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "HotelWebServiceDB\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\WebService1.asmx.cs",
+              "RelativeToolTip": "HotelWebServiceDB\\WebService1.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T04:09:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\Styles\\style.css",
+              "RelativeDocumentMoniker": "HotelWebServiceDB\\Styles\\style.css",
+              "ToolTip": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\Styles\\style.css",
+              "RelativeToolTip": "HotelWebServiceDB\\Styles\\style.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T03:42:13.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "HotelWebServiceDB\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\WebForm1.aspx",
+              "RelativeToolTip": "HotelWebServiceDB\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-28T02:01:27.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\Web.config",
+              "RelativeDocumentMoniker": "HotelWebServiceDB\\Web.config",
+              "ToolTip": "C:\\Users\\migue\\OneDrive - Universidad Privada Domingo Savio\\UNIVERSIDAD\\PROGRAMACION WEB 1\\hotelWebServiceDB\\HotelWebServiceDB\\Web.config",
+              "RelativeToolTip": "HotelWebServiceDB\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T01:58:13.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
